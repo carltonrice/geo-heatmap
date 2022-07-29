@@ -22,7 +22,7 @@ e.g. from a GPS tracker.
 
 ### 3. Clone This Repository
 
-On <https://github.com/luka1199/geo-heatmap>, click the green "Clone or Download" button at the top right of the page. If you want to get started with this script more quickly, click the "Download ZIP" button, and extract the ZIP somewhere on your computer.
+Clone button.
 
 ### 4. Install Dependencies
 
